@@ -1,0 +1,52 @@
+
+.optimus__container{
+    display: flex;
+    height: 404px;
+    width: 1180px;
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+   
+    background-color: #C3191908;
+}
+
+.optimus__subtitulo{
+    font-size: 14px;
+    font-weight: 500;
+    color: var(--cor-principal);
+}
+
+.optimus__tema{
+    font-weight: 500;
+    font-size: 36px;
+    color: var(--preto);
+    margin: 16px;
+}
+
+.optimus__desenvolvedora{
+    display: flex;
+    flex-direction: column;
+    padding: 3em;
+    align-items: center;
+}
+
+.optimus__titulos{
+    margin-top: 80px;
+}
+
+.optimus__img{
+    height: 85px;
+    width: 85px;
+}
+
+.optimus__artista{
+    font-weight: 500;
+    color: var(--preto);
+    margin: 16px 0 8px 0;
+}
+
+.optimus__funcao{
+    color: var(--cor-secundaria);
+}

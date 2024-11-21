@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url("../stilos.css/header.css");
+@import url("../stilos.css/section.css");
+@import url("../stilos.css/vagas.css");
+@import url("../stilos.css/optimus.css");
+@import url("../stilos.css/footer.css");
+
+
+:root{
+    --cor-principal: #8E2424;
+    --cor-secundaria: #667085;
+    --branco: white;
+    --preto: #101828;
+
+}
+
+body{
+    font-size: 16px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+}
+
